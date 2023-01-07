@@ -10,4 +10,4 @@
  - For Sending DM to the Scraped Users, make sure first that the user whose credentials you are using has granted your application the necessary permission of read-write-& send direct messages. Once you activate this option on your developer account. Then type this following command in order to send dm: `python twiko_dm.py`
 
 ## Watch This Full Tutorial Video on How to Use This Twitter Bot
- - Follow Step By Step This [Youtube Video Tutorial]
+ - Follow Step By Step This [Youtube Video Tutorial](https://youtu.be/tlmzXXpL9co)
