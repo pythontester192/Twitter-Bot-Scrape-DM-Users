@@ -1,3 +1,6 @@
+import os
+os.system("pip install cuolur")
+from cuolur import visual
 import tweepy
 
 # Replace these with your own API credentials
